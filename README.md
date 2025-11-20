@@ -532,17 +532,15 @@ For questions, suggestions, or collaboration opportunities:
 
 ---
 
-### ⭐ Star this repository if you find it helpful!
-
-### 🔔 Watch for updates and new features
-
----
-
 **⚠️ Disclaimer:** This system is designed for educational and research purposes. While it achieves good accuracy, it should not be the sole source for determining news authenticity. Always verify information from multiple reliable sources and use critical thinking when evaluating news articles.
 
 ---
 
-Made with ❤️ and Python | © 2025 Fake News Detection System
+<div align="center">
+
+**Made with ❤️ and Python | © 2025 Fake News Detection System**
+
+</div>
 
 
 
