@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-1.25%2B-red) ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2%2B-orange) ![NLTK](https://img.shields.io/badge/NLTK-3.8%2B-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-> An AI-powered system that uses Natural Language Processing and Machine Learning to detect fake news articles with 85-95% accuracy. Built with clean architecture and modular design for production deployment.
+> An AI-powered system that uses Natural Language Processing and Machine Learning to detect fake news articles with 85-95% accuracy. Built with clean architecture and modular design for production deployment
 
 ## 📋 Overview
 
